@@ -23,7 +23,7 @@ to complete your registration.
 
 Here's a helpful YouTube video that walks you through the entire registration process:
 
-[![NITEREX Registration Tutorial]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg](https://i.ytimg.com/vi/TU-ZCLM3gdA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&amp;rs=AOn4CLDXHJ6D4enJmlf8ycyeWW77tdFSOg))]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://youtu.be/TU-ZCLM3gdA?si=Ui4uLxtxNFuoQPZg))
+[![NITEREX Registration Tutorial](https://i.ytimg.com/vi/TU-ZCLM3gdA/hq720.jpg)](https://youtu.be/TU-ZCLM3gdA?si=Ui4uLxtxNFuoQPZg)
 
 *(Click the image to watch the video)*
 
